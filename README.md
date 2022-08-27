@@ -1,10 +1,10 @@
 # Projeto 2 de manipulação no Excel
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 ## :memo: Descrição
 
-  Com experiências aprendidas no [projeto anterior de manipulação no Excel](https://github.com/vitaolv/Projeto_Manipula_arquivos_Excel_1/edit/main/README.md), o principal objetivo do projeto é manipular os dados e as planilhas no excel, importando uma grande quantidade de dados que se aproxima a 18 mil de dados. Esses dados contém as informações sobre o histórico de partida (quantidade de dano, kills, mortes, assistências, gold, torres destruídas, etc), e o programa cria uma tabela e gráfico de resumo, que a visualização de histórico de partida se torna visível para os usuários.
+  Com experiências aprendidas no [projeto anterior de manipulação no Excel](https://github.com/vitaolv/projeto-manipula-excel-1), o principal objetivo do projeto é manipular os dados e as planilhas no excel, importando uma grande quantidade de dados que se aproxima a 18 mil de dados. Esses dados contém as informações sobre o histórico de partida (quantidade de dano, kills, mortes, assistências, gold, torres destruídas, etc), e o programa cria uma tabela e gráfico de resumo, que a visualização de histórico de partida se torna visível para os usuários.
   
 
 ## :arrow_down: Resultado
